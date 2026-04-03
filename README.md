@@ -138,4 +138,4 @@ const abhijeet = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF8C00,40:FF4500,75:8B0000,100:0D0D0D&height=120&section=footer&animation=blinking&stroke=FF6030&strokeWidth=1&reversal=true" width="100%" />
+
