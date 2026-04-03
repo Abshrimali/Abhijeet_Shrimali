@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A192F,100:0D1117&height=180&section=header&text=Abhijeet%20Shrimali&fontSize=52&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Karachi%20%F0%9F%87%B5%F0%9F%87%B0&descSize=15&descAlignY=65&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A192F,75:0D2137,100:0D1117&height=180&section=header&text=Abhijeet%20Shrimali&fontSize=52&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Karachi%20%F0%9F%87%B5%F0%9F%87%B0&descSize=15&descAlignY=65&descAlign=50" width="100%" />
 
 <br/>
 
@@ -91,6 +91,19 @@ const abhijeet = {
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="90">
 
 </div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏆 &nbsp; GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
+
+</div>
+
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -116,6 +129,10 @@ const abhijeet = {
 <br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" />
 
 <br/>
 
