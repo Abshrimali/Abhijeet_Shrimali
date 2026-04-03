@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&secondaryColor=36BCF7&height=250&section=header&text=Abhijeet%20Shrimali&fontSize=75&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=Abhijeet%20Shrimali&fontSize=75&fontAlignY=45&fontColor=36BCF7&animation=twinkling" width="100%" />
 
   <p align="center">
     <samp>
-      <b>Full-Stack MERN Engineer</b> • <b>System Architect</b> • <b>UI/UX Enthusiast</b>
+      <b>Backend Engineer</b> • <b>MERN Stack Architect</b> • <b>API Specialist</b>
     </samp>
   </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;System+Architecture+Optimization;Next.js+%26+GSAP+Animations;Karachi+Tech+Ecosystem" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Scalable+Node.js+Architectures;Express+Middleware+Expert;MongoDB+Schema+Design;RESTful+API+Optimization" />
   </p>
   
   <p align="center">
@@ -20,10 +20,10 @@
 
 ---
 
-### 🖋️ Executive Summary
-I am a **Full-Stack Developer** based in Karachi, Pakistan, specializing in building robust, scalable web applications. My development philosophy centers on **predictable state management**, **clean architecture**, and **performance optimization**. 
+### ⚙️ Backend Engineering Philosophy
+I am a **Backend-Heavy Full-Stack Developer** with a focus on building the invisible engines that power modern web applications. I thrive in the terminal, optimizing **server-side performance**, designing **relational/non-relational schemas**, and ensuring that every API endpoint is secure, fast, and scalable.
 
-I bridge the gap between complex backend logic and fluid, high-performance user interfaces.
+I believe in **clean code**, **dry principles**, and the power of a well-documented **REST API**.
 
 ---
 
@@ -32,16 +32,16 @@ I bridge the gap between complex backend logic and fluid, high-performance user 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Development Stack</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,html,css,tailwind,mui,git,vscode" />
+      <h4>📦 The Backend Core</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,ts,git,github,postman,vscode" />
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Engineering Focus</h4>
+      <h4>⚙️ Engineering Specialization</h4>
       <ul>
-        <li><b>Architecture:</b> Building scalable RESTful APIs with Node.js & Express</li>
-        <li><b>Frontend:</b> State management with React Hooks & Context API</li>
-        <li><b>Performance:</b> Big-O Analysis & Data Structure optimization</li>
-        <li><b>Modern Web:</b> Transitioning to Next.js for SSR & SEO</li>
+        <li><b>Server Logic:</b> Developing robust Node.js & Express runtimes.</li>
+        <li><b>Data Modeling:</b> Advanced MongoDB indexing and schema validation.</li>
+        <li><b>Optimization:</b> Algorithm analysis and Big-O efficiency.</li>
+        <li><b>Environment:</b> Custom VS Code setup (Fira Code/Chai Theme) for max focus.</li>
       </ul>
     </td>
   </tr>
@@ -49,7 +49,7 @@ I bridge the gap between complex backend logic and fluid, high-performance user 
 
 ---
 
-### 🔥 Dynamic Activity & Growth
+### 🔥 System Metrics & Contributions
 
 <div align="center">
   <table border="0">
@@ -68,10 +68,10 @@ I bridge the gap between complex backend logic and fluid, high-performance user 
 
 ### 🚀 Current Mission Control
 
-* 🌐 **Next.js:** Mastering Server-Side Rendering (SSR) for lightning-fast web apps.
-* 🎨 **GSAP:** Implementing fluid, cinematic UI transitions and high-end animations.
-* 🌦️ **Featured Project:** Refining a **Weather Dashboard** with real-time API integration and MUI.
-* 🧠 **Algorithm Study:** Deep diving into advanced JavaScript patterns and system design.
+* 🏗️ **Architecting:** Deep diving into **Express Middleware** and custom authentication flows.
+* ⚡ **Optimizing:** Moving logic to **Next.js API routes** for edge-case performance.
+* 🌦️ **Featured Project:** A **Weather Application** utilizing complex asynchronous data fetching.
+* 🧠 **Algorithm Study:** Mastering advanced Data Structures for system-level problem solving.
 
 ---
 
@@ -82,5 +82,5 @@ I bridge the gap between complex backend logic and fluid, high-performance user 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mhm-faheem/mhm-faheem/master/assets/line-neon.gif" width="100%">
   <br/>
-  <samp><i>"Building the future of the web, one commit at a time."</i></samp>
+  <samp><i>"Refactoring the world, one endpoint at a time."</i></samp>
 </p>
