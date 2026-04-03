@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D0D0D,40:8B0000,75:FF4500,100:FF8C00&height=160&section=header&text=Abhijeet%20Shrimali&fontSize=50&fontColor=FFFFFF&fontAlignY=50&animation=blinking&stroke=FF6030&strokeWidth=1&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Karachi%20%F0%9F%87%B5%F0%9F%87%B0&descSize=15&descAlignY=72&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A192F,100:0D1117&height=180&section=header&text=Abhijeet%20Shrimali&fontSize=52&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Karachi%20%F0%9F%87%B5%F0%9F%87%B0&descSize=15&descAlignY=65&descAlign=50" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=FF4500&background=00000000&center=true&vCenter=true&width=620&height=55&lines=Backend+Engineer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;API+Architect+%F0%9F%94%A7;System+Design+Enthusiast+%F0%9F%A7%A0;Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB+%F0%9F%92%BE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=620&height=55&lines=Backend+Engineer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;API+Architect+%F0%9F%94%A7;System+Design+Enthusiast+%F0%9F%A7%A0;Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB+%F0%9F%92%BE" alt="Typing SVG" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=Refactoring+the+world%2C+one+endpoint+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=8B949E&center=true&vCenter=true&width=500&lines=Refactoring+the+world%2C+one+endpoint+at+a+time.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-abbi.shrimali%40gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF4500&labelColor=0D0D0D)](mailto:abbi.shrimali@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF4500&labelColor=0D0D0D)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0D0D0D?style=for-the-badge&logo=github&logoColor=FF4500&labelColor=0D0D0D)](https://github.com/YOUR_USERNAME)
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF4500&style=for-the-badge&label=VISITORS)
+[![Gmail](https://img.shields.io/badge/Gmail-abbi.shrimali%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117)](mailto:abbi.shrimali@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117)](https://github.com/YOUR_USERNAME)
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=for-the-badge&label=VISITORS)
 
 </div>
 
@@ -61,24 +61,24 @@ const abhijeet = {
 
 <br/><br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF4500?style=for-the-badge&logo=fastapi&logoColor=white)
-![Middleware](https://img.shields.io/badge/Middleware-8B0000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=58A6FF)
+![Mongoose](https://img.shields.io/badge/Mongoose-0D1117?style=for-the-badge&logo=mongoose&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=58A6FF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![NPM](https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&logo=npm&logoColor=58A6FF)
+![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
+![Middleware](https://img.shields.io/badge/Middleware-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
 
 <br/>
 
@@ -96,6 +96,18 @@ const abhijeet = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 🏆 &nbsp; GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🌐 &nbsp; Let's Connect
 
 <div align="center">
@@ -103,14 +115,27 @@ const abhijeet = {
 <br/>
 
 <a href="mailto:abbi.shrimali@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email%20Me-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📧%20Email%20Me-0D1117?style=for-the-badge&logoColor=58A6FF" />
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-0A192F?style=for-the-badge&logoColor=58A6FF" />
 </a>
 &nbsp;&nbsp;
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/🐙%20GitHub-161B22?style=for-the-badge&logoColor=FFFFFF" />
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" />
+
+<br/>
 
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A192F,100:000000&height=130&section=footer&animation=fadeIn&reversal=true" width="100%" />
