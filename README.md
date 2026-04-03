@@ -1,23 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=121212&secondaryColor=0D1117&height=250&section=header&text=Abhijeet%20Shrimali&fontSize=80&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20MERN%20Engineer&descFontSize=25&descAlignY=55&descColor=999999" width="100%" />
-
-  <br/>
-
-  <p align="center">
-    <samp>
-      <b>Audit-First Engineering</b> // <b>MERN Stack</b> // <b>FBR Compliance</b>
-    </samp>
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Connect-%E2%9C%89%EF%B8%8F%20abbi.shrimali%40gmail.com-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Location-%F0%9F%93%8D%20Karachi%2C%20PK-E11D48?style=flat-square" />
-    <img src="https://img.shields.io/badge/Status-%F0%9F%9A%80%20Open%20to%20FinTech-00D2FF?style=flat-square" />
-  </p>
-</div>
-
----
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&secondaryColor=36BCF7&height=250&section=header&text=Abhijeet%20Shrimali&fontSize=75&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
   <p align="center">
