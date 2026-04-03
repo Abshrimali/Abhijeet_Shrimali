@@ -1,93 +1,80 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=Abhijeet%20Shrimali&fontSize=70&fontAlignY=45&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=Abhijeet%20Shrimali&fontSize=75&fontAlignY=45&fontColor=FFFFFF&animation=twinkling" width="100%" />
 
-  <h3>🚀 Full-Stack Engineer | FinTech Focus</h3>
-
-  <p>
-    Building scalable systems with precision of finance & power of modern web
+  <p align="center">
+    <samp>
+      <b>Full-Stack Engineer</b> • <b>Tax & Accountancy Specialist</b> • <b>FinTech Innovator</b>
+    </samp>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Next.js+%26+Performance+Optimization;Financial+Systems+%26+Tax+Logic;Learning+React+Deeply;Future+FinTech+Builder" />
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=500&lines=System+Architecture;MERN+Stack+Optimization;Financial+Data+Integrity;Next.js+%26+GSAP" />
+  </p>
 </div>
 
 ---
 
-## 🧠 About Me
+### 🖋️ Executive Summary
+I am a **Full-Stack Developer** based in **Karachi** with a distinct background in **Tax Law and Accountancy**. My approach to engineering is rooted in the same precision required for a balanced ledger—prioritizing **data integrity**, **predictable state management**, and **scalable architecture**. 
 
-I’m a **Full-Stack Developer based in Karachi** with hands-on experience in both **software engineering** and **tax/accountancy systems**.
-
-💡 My unique edge:
-
-* I don’t just build apps — I understand **financial logic behind them**
-* I focus on **clean architecture**, **performance**, and **real-world scalability**
-* I think like both a **developer + business system designer**
-
-> “Code should be as predictable as a balanced ledger.”
+I bridge the gap between complex financial logic and high-performance web applications.
 
 ---
 
-## ⚙️ Tech Stack
+### 🛠️ Technical Ecosystem
 
-### 🧩 Core Development
-
-* **MongoDB** – Database design & data modeling
-* **Express.js** – Backend APIs
-* **React.js** – UI development (currently mastering deeply)
-* **Node.js** – Server-side logic
-
-### ⚡ Modern Tools
-
-* **Next.js** – SSR & performance optimization
-* **TypeScript** – Scalable & safe code
-* **Tailwind CSS** – Clean UI styling
-* **GSAP** – Advanced animations
-
-### 🏦 Domain Knowledge
-
-* Tax Systems & Compliance
-* Financial Data Handling
-* Auditing Concepts
-* Real-world Business Logic
+<table width="100%" border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>📦 Core Stack</h4>
+      <code>• MongoDB</code><br>
+      <code>• Express.js</code><br>
+      <code>• React.js</code><br>
+      <code>• Node.js</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚡ Modern Web</h4>
+      <code>• Next.js</code><br>
+      <code>• TypeScript</code><br>
+      <code>• Tailwind CSS</code><br>
+      <code>• GSAP Animations</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🏛️ Professional</h4>
+      <code>• Sales Tax Compliance</code><br>
+      <code>• FBR Registration</code><br>
+      <code>• Financial Auditing</code><br>
+      <code>• Big-O Analysis</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&hide_border=true&bg_color=0D1117" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=FFFFFF&text_color=AAAAAA&hide_border=true&bg_color=0D1117" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=FFFFFF&text_color=999999&hide_border=true&bg_color=0D1117" width="43%" />
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-* 🔥 Deep diving into **React (DOM, hooks, rendering)**
-* ⚡ Building faster apps using **Next.js (SSR + optimization)**
-* 🎨 Learning **GSAP for premium UI animations**
-* 💰 Exploring **FinTech systems & automation**
-* 🧠 Strengthening **problem solving & system design**
+### 🛰️ Current Focus
+* **Performance:** Implementing Server-Side Rendering (SSR) patterns with **Next.js**.
+* **Interactivity:** Mastering high-end UI motion using **GSAP**.
+* **FinTech:** Researching the intersection of **Blockchain** and automated tax workflows.
+* **Open Source:** Contributing to tools that simplify API integration for developers.
 
 ---
 
-## 📈 Future Vision
+### 📬 Connect
+<p align="left">
+  <a href="mailto:abbi.shrimali@gmail.com"><img src="https://img.shields.io/badge/-Email-white?style=flat-square&logo=gmail&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=linkedin&logoColor=black" /></a>
+  <img src="https://img.shields.io/badge/-Karachi%2C%20PK-white?style=flat-square&logo=googlemaps&logoColor=black" />
+</p>
 
-* Build **FinTech SaaS products**
-* Create tools for **automated tax systems**
-* Master **system architecture & scalable backend design**
-* Contribute to **open source projects**
-
----
-
-## 📬 Connect With Me
-
-* 📧 Email: [abbi.shrimali@gmail.com](mailto:abbi.shrimali@gmail.com)
-* 💼 LinkedIn: *(Add your link here)*
-* 📍 Location: Karachi, Pakistan
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mhm-faheem/mhm-faheem/master/assets/line-neon.gif" width="40%">
+<div align="right">
+  <img src="https://raw.githubusercontent.com/mhm-faheem/mhm-faheem/master/assets/line-neon.gif" width="30%">
 </div>
