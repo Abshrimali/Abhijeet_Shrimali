@@ -1,12 +1,14 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:36BCF7,100:0D1117&height=200&section=header&text=Abhijeet%20Shrimali&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack&descSize=18&descAlignY=60&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:36BCF7,100:0D1117&height=200&section=header&text=Abhijeet%20Shrimali&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack&descSize=18&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:36BCF7,100:0D1117&height=200&section=header&text=Abhijeet%20Shrimali&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+</picture>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:36BCF7,100:0D1117&height=200&section=header&text=Abhijeet%20Shrimali&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Backend+Engineer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;API+Architect+%F0%9F%94%A7;System+Design+Enthusiast+%F0%9F%A7%A0;Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB+%F0%9F%92%BE" alt="Typing SVG" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=36BCF7&background=0D111700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Backend+Engineer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;API+Architect+%F0%9F%94%A7;System+Design+Enthusiast+%F0%9F%A7%A0;Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB+%F0%9F%92%BE" alt="Typing SVG" />
-
-<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=Refactoring+the+world%2C+one+endpoint+at+a+time.)](https://git.io/typing-svg)
 
@@ -95,35 +97,10 @@ const abhijeet = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 &nbsp; GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9&icon_color=36BCF7&border_radius=10"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9&border_radius=10"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=C9D1D9&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=10" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7&hide_border=true&radius=10&custom_title=Abhijeet's%20Contribution%20Graph" />
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 🏆 &nbsp; GitHub Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=36BCF7" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -143,7 +120,7 @@ const abhijeet = {
 </a>
 &nbsp;
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
