@@ -56,13 +56,30 @@ const abhijeet = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBIOviZ/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; Tech Arsenal
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,ts,nextjs,react,git,github,vscode,postman,linux,vercel,npm&perline=7" />
-
-
-
-
+  
 <br/>
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=58A6FF)
+![Mongoose](https://img.shields.io/badge/Mongoose-0D1117?style=for-the-badge&logo=mongoose&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=58A6FF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![NPM](https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&logo=npm&logoColor=58A6FF)
+![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
+![Middleware](https://img.shields.io/badge/Middleware-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
+<br/>
+<br/>
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90">
