@@ -18,57 +18,28 @@
 
 ---
 
----
-### 🛠️ Core Competencies
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Development Stack</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,html,css,tailwind,mui" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>📑 Professional Logic</h4>
-      <ul>
-        <li><b>Taxation:</b> Sales Tax Returns & FBR Compliance</li>
-        <li><b>Accountancy:</b> GL Maintenance & Bank Reconciliation</li>
-        <li><b>Architecture:</b> Big-O Analysis & API Scalability</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🔥 Dynamic Activity & Growth
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&border_color=36BCF7&title_color=36BCF7" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=false&border_color=36BCF7&title_color=36BCF7" />
-      </td>
-    </tr>
-  </table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Abhijeet%20Shrimali&fontSize=60&fontColor=00F5FF" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Learning+React;Building+Projects" />
+
 </div>
 
 ---
 
-### 🚀 Current Learning & Projects
-- 🌐 **Frontend:** Mastering **Next.js** for SSR and SEO-friendly architectures.
-- 🎨 **Animation:** Integrating **GSAP** for high-end, smooth web interactions.
-- 🌦️ **Project:** Refining a **Weather Dashboard** with real-time API state management.
-- 🤖 **Future:** Researching **AI-driven FinTech** to automate complex tax workflows.
+## 🛠 Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,html,css,tailwind" />
+</div>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false&border_color=36BCF7&stroke=36BCF7&ring=36BCF7&fire=36BCF7" width="100%" />
-</div>
+## 📊 Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mhm-faheem/mhm-faheem/master/assets/line-neon.gif" width="100%">
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+
+</div>
