@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:36BCF7,100:0D1117&height=200&section=header&text=Abhijeet%20Shrimali&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack&descSize=18&descAlignY=60&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:36BCF7,100:0D1117&height=200&section=header&text=Abhijeet%20Shrimali&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack&descSize=18&descAlignY=60&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:36BCF7,100:0D1117&height=200&section=header&text=Abhijeet%20Shrimali&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,30:FF0000,60:FF4500,100:FF8C00&height=220&section=header&text=Abhijeet%20Shrimali&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack&descSize=18&descAlignY=62&animation=twinkling&stroke=FF4500&strokeWidth=2" width="100%" />
 
 <div align="center">
 
@@ -135,4 +131,4 @@ const abhijeet = {
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:36BCF7,100:0D1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF8C00,50:FF4500,80:FF0000,100:0D1117&height=150&section=footer&animation=twinkling&stroke=FF4500&strokeWidth=2" width="100%" />
