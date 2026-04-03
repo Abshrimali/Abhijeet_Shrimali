@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0D0D0D,40:8B0000,70:FF4500,100:FF8C00&height=180&section=header&text=Abhijeet%20Shrimali&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&stroke=FF4500&strokeWidth=1&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack&descSize=17&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D0D0D,40:8B0000,75:FF4500,100:FF8C00&height=160&section=header&text=Abhijeet%20Shrimali&fontSize=50&fontColor=FFFFFF&fontAlignY=50&animation=blinking&stroke=FF6030&strokeWidth=1&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Karachi%20%F0%9F%87%B5%F0%9F%87%B0&descSize=15&descAlignY=72&descAlign=50" width="100%" />
 
 <br/>
 
@@ -100,7 +100,7 @@ const abhijeet = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
 
 </div>
 
@@ -115,15 +115,15 @@ const abhijeet = {
 <br/>
 
 <a href="mailto:abbi.shrimali@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email%20Me-FF4500?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/📧%20Email%20Me-FF4500?style=for-the-badge" />
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-8B0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-8B0000?style=for-the-badge" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/🐙%20GitHub-0D0D0D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🐙%20GitHub-0D0D0D?style=for-the-badge" />
 </a>
 
 <br/><br/>
@@ -138,4 +138,4 @@ const abhijeet = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:FF8C00,40:FF4500,70:8B0000,100:0D0D0D&height=140&section=footer&animation=fadeIn&stroke=FF4500&strokeWidth=1&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF8C00,40:FF4500,75:8B0000,100:0D0D0D&height=120&section=footer&animation=blinking&stroke=FF6030&strokeWidth=1&reversal=true" width="100%" />
