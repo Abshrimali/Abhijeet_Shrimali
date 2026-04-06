@@ -15,7 +15,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-abbi.shrimali%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117)](mailto:abbi.shrimali@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117)](https://github.com/YOUR_USERNAME)
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=for-the-badge&label=VISITORS)
+
 
 </div>
 
