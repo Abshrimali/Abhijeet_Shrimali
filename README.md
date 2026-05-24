@@ -138,6 +138,27 @@ I'm a passionate **Full-Stack MERN Developer** dedicated to building scalable, p
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 🏆 Certifications & Badges
+
+<div align="center">
+
+<br/>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1cd6b363-50be-40e2-aea0-4b86cbdb2064" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<br/><br/>
+
+**🎓 View My Professional Certifications**
+
+[![Credly Badge](https://img.shields.io/badge/View%20My%20Credly%20Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/1cd6b363-50be-40e2-aea0-4b86cbdb2064/public_url)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🎯 What I'm Looking For
 
 ```
