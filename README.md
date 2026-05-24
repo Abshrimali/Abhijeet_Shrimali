@@ -105,6 +105,10 @@ I'm a passionate **Full-Stack MERN Developer** dedicated to building scalable, p
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abshrimali&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abshrimali&layout=compact&theme=dark" alt="Top Languages" />
 
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abshrimali&theme=dark&hide_border=false" alt="GitHub Streak" />
+
 </div>
 
 ---
@@ -129,10 +133,12 @@ I'm a passionate **Full-Stack MERN Developer** dedicated to building scalable, p
 - Mentored students on best practices and clean code
 - Assisted in building full-stack web applications
 
-**Certifications:**
-- Bachelor of Science in Computer Science (In Progress) - Virtual University
-- Advanced Diploma in Software Engineering (In Progress) - Aptech Learning Pakistan
-- Bridge Course (Completed 2024) - Aptech Learning Pakistan
+**Education:**
+- 🎓 Bachelor of Science in Computer Science (In Progress) - Virtual University
+- 📘 Advanced Diploma in Software Engineering (In Progress) - Aptech Learning Pakistan
+- ✅ Bridge Course (Completed 2024) - Aptech Learning Pakistan
+- 📝 Diploma of Associate Engineer (DAE) (Completed 2024) - Aptech Learning Pakistan
+- 🏫 Intermediate in Pre-Engineering (Completed 2020)
 
 ---
 
@@ -144,14 +150,29 @@ I'm a passionate **Full-Stack MERN Developer** dedicated to building scalable, p
 
 <br/>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1cd6b363-50be-40e2-aea0-4b86cbdb2064" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!-- Credly Badge - Click to verify -->
+<a href="https://www.credly.com/badges/1cd6b363-50be-40e2-aea0-4b86cbdb2064/public_url" target="_blank">
+  <img src="https://images.credly.com/images/8d4f6c17-4f1d-4b18-8d59-eebd5a7a0f3e/image.png" alt="Credly Certification Badge" width="180"/>
+</a>
+
+<!-- 
+  ADVANCED OPTION: If you have multiple badges and know your Credly username,
+  you can use this dynamic badge grid instead (uncomment and replace YOUR_CREDLY_USERNAME):
+  
+  <img src="https://credly-readme-stats.onrender.com/api/badges?username=YOUR_CREDLY_USERNAME&theme=dark" alt="Credly Badges" width="100%"/>
+  
+  Or use the overview card:
+  <img src="https://credly-readme-stats.onrender.com/api/overview?username=YOUR_CREDLY_USERNAME&theme=dark" alt="Credly Overview" width="100%"/>
+-->
 
 <br/><br/>
 
-**🎓 View My Professional Certifications**
+**🎓 Verified Professional Certification**
 
-[![Credly Badge](https://img.shields.io/badge/View%20My%20Credly%20Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/1cd6b363-50be-40e2-aea0-4b86cbdb2064/public_url)
+[![View Full Credentials](https://img.shields.io/badge/🔍_View_Full_Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/1cd6b363-50be-40e2-aea0-4b86cbdb2064/public_url)
+[![Verify Badge](https://img.shields.io/badge/✓_Verify_Authenticity-0A192F?style=for-the-badge&logo=shieldsdotio&logoColor=white)](https://www.credly.com/badges/1cd6b363-50be-40e2-aea0-4b86cbdb2064/public_url)
+
+<br/>
 
 </div>
 
@@ -214,6 +235,12 @@ I'm a passionate **Full-Stack MERN Developer** dedicated to building scalable, p
 Feel free to reach out if you want to collaborate or discuss anything related to MERN development.
 
 **Happy Coding! 💻**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abshrimali&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A192F,100:000000&height=130&section=footer&animation=fadeIn&reversal=true" width="100%" />
 
